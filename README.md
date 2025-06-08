@@ -24,7 +24,8 @@ Follow on-screen prompts for input
 
 Screenshots
 ![Screenshot 2025-06-09 012712](https://github.com/user-attachments/assets/9c2ef483-11c8-481e-84ac-26acdd4c0007)
-![Screenshot 2025-06-09 012926L](https://github.com/user-attachments/assets/1ad7d87d-42cd-4733-a8f5-7a87c9a8ed91)
+![Screenshot 2025-06-09 012832](https://github.com/user-attachments/assets/f67fc4d1-ff75-4af1-b28f-7133e0422ac2)
+
 ![Screenshot 2025-06-09 012926L](https://github.com/user-attachments/assets/c34fa7db-36cf-4b97-99a5-37ae04407868)
 
 
